@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/syedazharmbnr1-claudemcpserver-badge.png)](https://mseep.ai/app/syedazharmbnr1-claudemcpserver)
+
 # Claude MCP Server Collection
 
 This repository contains a collection of Model Context Protocol (MCP) servers designed to enhance Claude's desktop application capabilities. Each server provides specific functionality that allows Claude to interact with your computer in different ways.
